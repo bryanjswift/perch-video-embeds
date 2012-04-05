@@ -1,0 +1,7 @@
+{
+	"Vimeo":"Vimeo",
+	"Video":"Video",
+	"Video App":"Video App",
+	"New Video":"New Video",
+	"%sAdd new video%s":"%sAdd new video%s"
+}
